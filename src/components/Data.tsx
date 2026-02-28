@@ -53,23 +53,22 @@ text-center whitw/30 backdrop-blur-lg" > {t("immigrations.heroText")}</p>
       ? "border-color bg-color shadow-xl"
       : "border-color hover:scale-95 hover:shadow-lg"}
   `}
+><p
+  className={`
+    text-4xl md:text-5xl lg:text-5xl mb-3 md:mb-[25px] transition-colors duration-300
+    ${selectedService?.service === d.service ? "text-white" : "text-black/50"}
+  `}
 >
-  <p
-    className={`
-      text-2xl md:text-4xl lg:text-5xl mb-3 md:mb-[25px] transition-colors duration-300
-      ${selectedService?.service === d.service ? "text-white" : "text-black/50"}
-    `}
-  >
-    {d.icon}
-  </p>
-  <h1
-    className={`
-      text-sm md:text-xl lg:text-3xl font-semibold mb-3 md:mb-[25px] transition-colors duration-300 text-center
-      ${selectedService?.service === d.service ? "text-white" : "text-black/50"}
-    `}
-  >
-    {d.service}
-  </h1>
+  {d.icon}
+</p>
+<h1
+  className={`
+    text-3xl md:text-4xl lg:text-4xl font-semibold mb-3 md:mb-[25px] transition-colors duration-300 text-center
+    ${selectedService?.service === d.service ? "text-white" : "text-black/50"}
+  `}
+>
+  {d.service}
+</h1>
 </div>
                 )
             })}
@@ -84,20 +83,17 @@ border-t-3 border-color
 rounded-xl shadow-lg bg-white 
 flex flex-col gap-4"
   >
-    <div className="font-semibold text-center 
-text-lg md:text-2xl lg:text-4xl 
-text-black/50">
-      <p className="border-b-2 border-color ">{selectedService.service} Requirements</p>
-    </div>
+   <div className="font-semibold text-center 
+  text-2xl md:text-3xl lg:text-5xl text-black/50">
+  <p className="border-b-2 border-color">{selectedService.service} Requirements</p>
+</div>
 
-    <ul className="list-disc pl-4 md:pl-6 
-flex flex-col gap-2 
-text-sm md:text-lg lg:text-2xl 
-text-black/80">
-      {selectedService.requirements.map((req, idx) => (
-        <li key={idx}>{req}</li>
-      ))}
-    </ul>
+<ul className="list-disc pl-4 md:pl-6 flex flex-col gap-2 
+  text-lg md:text-2xl lg:text-3xl text-black/80">
+  {selectedService.requirements.map((req, idx) => (
+    <li key={idx}>{req}</li>
+  ))}
+</ul>
   </div>
 )}
 

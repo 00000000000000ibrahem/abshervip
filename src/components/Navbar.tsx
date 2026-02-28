@@ -106,7 +106,7 @@ const Navbar = () => {
   <div className="flex items-center justify-between px-6 py-4 h-full">
     {/* Logo */}
     <div className="flex-shrink-0">
-      <img src="/pic/logo3.png" alt="logo" className="w-[90px]" />
+      <img src="../../public/pic/logo3.png" alt="logo" className="w-[90px]" />
     </div>
 
     {/* Desktop Menu */}
