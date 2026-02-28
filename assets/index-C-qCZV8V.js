@@ -30,13 +30,13 @@ text-center whitw/30 backdrop-blur-lg `,children:i(`homeone.texts.${r}`)}),y.jsx
     flex flex-col items-center justify-around\r
     hover:bg-[#9f7729]\r
     transition-transform duration-300\r
-  `,children:[y.jsx("p",{className:"text-2xl md:text-3xl lg:text-4xl text-black/50ext-4xl text-black/50 group-hover:text-white transition-colors duration-500",children:o.icon}),y.jsx("h2",{className:"text-lg md:text-xl lg:text-2xl text-center px-2 font-semibold group-hover:text-white transition-colors duration-500",children:i(o.gov)}),y.jsx("button",{onClick:()=>l(o.path),className:`flex items-center justify-center border \r
-p-2 md:p-3\r
-rounded-xl font-semibold \r
-text-sm md:text-lg lg:text-2xl \r
-text-white bg-black/50 \r
-w-[100px] md:w-[130px] lg:w-[150px] \r
-h-[40px] md:h-[50px] lg:h-[60px] group-hover:bg-white group-hover:text-[#9f7729] transition-colors duration-300`,children:i("hometow.view")})]},c))})]})},Gm=()=>{const{t:i}=xt();return y.jsx("div",{className:`w-full min-h-[70vh] md:min-h-[90vh] lg:min-h-[100vh] \r
+  `,children:[y.jsx("p",{className:"text-3xl md:text-4xl lg:text-5xl text-black/50 group-hover:text-white transition-colors duration-500",children:o.icon}),y.jsx("h2",{className:"text-xl md:text-2xl lg:text-3xl text-center px-2 font-semibold group-hover:text-white transition-colors duration-500",children:i(o.gov)}),y.jsx("button",{onClick:()=>l(o.path),className:`flex items-center justify-center border \r
+      p-2 md:p-3\r
+      rounded-xl font-semibold \r
+      text-sm md:text-lg lg:text-2xl \r
+      text-white bg-black/50 \r
+      w-[100px] md:w-[130px] lg:w-[150px] \r
+      h-[40px] md:h-[50px] lg:h-[60px] group-hover:bg-white group-hover:text-[#9f7729] transition-colors duration-300`,children:i("hometow.view")})]},c))})]})},Gm=()=>{const{t:i}=xt();return y.jsx("div",{className:`w-full min-h-[70vh] md:min-h-[90vh] lg:min-h-[100vh] \r
 bg-[url("/pic/reseption.jpg")] bg-cover bg-center \r
 flex relative px-4`,children:y.jsxs("div",{className:`w-full md:w-[60%] lg:w-[40%] \r
 h-auto md:h-full\r
