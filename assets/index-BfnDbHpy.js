@@ -90,13 +90,13 @@ font-semibold text-white gap-2`,children:[r(c.q)," ",y.jsx(I3,{onClick:()=>l(i==
         transition-all duration-300 transform hover:scale-110\r
         z-50\r
       `,children:y.jsx(Em,{className:"text-2xl"})})}const e5=()=>y.jsxs("div",{children:[y.jsx(K3,{}),y.jsx(km,{}),y.jsx(Gm,{}),y.jsx(Fm,{}),y.jsx(W3,{}),y.jsx(Gs,{})]}),t5=()=>y.jsx("div",{className:"",children:y.jsx(km,{})}),Ca=({data:i})=>{const{t:l}=xt(),[r,o]=A.useState(null),c=A.useRef(null);return y.jsxs("div",{className:"w-full flex flex-col items-center justify-center gap-10",children:[y.jsx("div",{className:`w-full min-h-[50vh] md:min-h-[70vh] lg:h-[600px] \r
-bg-[url("/pic/Pngtree.jpg")] bg-cover bg-center px-4`,children:y.jsxs("div",{className:"w-full h-[100%] flex flex-col gap-4 items-center justify-center ",children:[y.jsx("h1",{className:`p-4 rounded-xl text-white \r
-text-2xl md:text-3xl lg:text-5xl \r
-font-bold mb-4 md:mb-6 \r
-text-center whitw/30 backdrop-blur-lg `,children:l("immigrations.heroTitle")}),y.jsxs("p",{className:`p-4 rounded-xl text-white \r
-text-sm md:text-lg lg:text-2xl \r
-mb-4 md:mb-6 \r
-text-center whitw/30 backdrop-blur-lg`,children:[" ",l("immigrations.heroText")]})]})}),y.jsx("div",{className:"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 px-4",children:i.map((f,d)=>y.jsxs("div",{onClick:()=>{o(f),setTimeout(()=>{c.current?.scrollIntoView({behavior:"smooth"})},100)},className:`
+  bg-[url("/pic/Pngtree.jpg")] bg-cover bg-center px-4 flex items-center justify-center`,children:y.jsxs("div",{className:"text-center flex flex-col gap-4 items-center justify-center w-full",children:[y.jsx("h1",{className:`p-4 rounded-xl text-white \r
+      text-2xl md:text-3xl lg:text-5xl \r
+      font-bold mb-4 md:mb-6 \r
+      bg-white/20 backdrop-blur-lg max-w-[90%]`,children:l("immigrations.heroTitle")}),y.jsx("p",{className:`p-4 rounded-xl text-white \r
+      text-sm md:text-lg lg:text-2xl \r
+      mb-4 md:mb-6 \r
+      bg-white/20 backdrop-blur-lg  max-w-[90%]`,children:l("immigrations.heroText")})]})}),y.jsx("div",{className:"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 px-4",children:i.map((f,d)=>y.jsxs("div",{onClick:()=>{o(f),setTimeout(()=>{c.current?.scrollIntoView({behavior:"smooth"})},100)},className:`
     cursor-pointer
     w-[500px] max-w-full  
     h-[300px]              
