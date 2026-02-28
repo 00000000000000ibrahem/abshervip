@@ -1,0 +1,47 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Vanitas&display=swap');
+
+
+@font-face {
+  font-family: 'Vanitas'; /* نفس اسم الخط */
+  src: url('./fonts/Vanitas.woff2') format('woff2'),
+       url('./fonts/Vanitas.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+.bg-gold-gradient {
+  background-image: linear-gradient(270deg, #edd173 0%, #f0a500 50%, #d47e00 100%);
+}
+.colors{
+    color:#d47e00
+}
+.text-color{
+    color:#9f7729
+}
+.bg-color{
+    background-color:#9f7729
+}
+.border-color{
+  color:#9f7729
+}
+/* @keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 35s linear infinite;
+} */
+ @keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  animation: marquee 20s linear infinite;
+}

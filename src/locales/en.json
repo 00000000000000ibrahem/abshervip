@@ -1,0 +1,996 @@
+{
+    "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+    "homeone": {
+  "prev": "Previous",
+  "next": "Next",
+
+  "texts": [
+    "ALL GOVERNMENT SERVICES UNDER ONE ROOF",
+    "All the papers in Damascus",
+    "Remotely with complete confidence…",
+    "We must handle official documents in Damascus from anywhere in the world quickly and reliably."
+  ],
+
+  "words": [
+    "Immigration and Passports",
+    "Ministry of Internal Trade",
+    "Civil Status",
+    "Ministry of Industry",
+    "Real Estate Ownership",
+    "Ministry of Finance",
+    "Real Estate Affairs",
+    "Ministry of Transportation",
+    "Ministry of Tourism",
+    "Real estate documents"
+  ]
+},
+  "hometow": {
+    "title": "Access All Government Services Online",
+    "view": "View",
+
+    "immigration": "Immigration and Passports",
+    "internalTrade": "Ministry of Internal Trade",
+    "civilStatus": "Civil Status",
+    "industry": "Ministry of Industry",
+    "realEstateOwnership": "Real Estate Ownership",
+    "finance": "Ministry of Finance",
+    "realEstateAffairs": "Real Estate Affairs (Tabu)",
+    "transportation": "Ministry of Transportation",
+    "tourism": "Ministry of Tourism",
+    "realEstateDocs": "Real estate documents"
+  },
+  "homethree": {
+    "title": "Who We Are",
+    "subtitle": "About Our Company",
+    "description": "Absher Service is a company specializing in paperwork and administrative transactions in Syria, enabling individuals and businesses to complete official procedures remotely from anywhere in the world. Our goal is to become the leading company in this field, providing clear, reliable, and efficient solutions that save time and effort, eliminating the need for travel."
+  },
+  "homefour": {
+    "header": "Our Branches",
+    "mainBranch": "Main Branch",
+    "govServices": "Government Services",
+    "address": "Damascus, Arnous Square, Arnous Tower",
+    "locate": "Locate Us"
+  },
+  "homefive": {
+  "brand": "AbsherVip",
+  "faq": "FREQUENTLY ASKED QUESTIONS",
+
+  "q1": "What government services do you provide?",
+  "a1": "At our company, we provide all the government services offered by the Syrian Arab Republic for all paper-based transactions, including licenses, official documents, attestations, and other administrative procedures, ensuring a smooth and convenient process for citizens and clients.",
+
+  "q2": "Where are your locations?",
+  "a2": "Damascus, Arnous Square, Arnous Tower",
+
+  "q3": "What are your contact details?",
+  "a3": "Email: karamsoliman359@gmail.com , WhatsApp: +963 932 156 083",
+
+  "q4": "What are your office hours?",
+  "a4": "Our working hours are from 9:00 AM to 5:00 PM.",
+
+  "q5": "Can you help with urgent requests?",
+  "a5": "Yes, we can assist with urgent requests and ensure that all time-sensitive transactions are handled promptly and efficiently.",
+
+  "q6": "Are your services compliant with local regulations?",
+  "a6": "Of course, all our services are fully compliant with local regulations, ensuring that every transaction is legal and meets all governmental requirements."
+},
+"civilStatus": {
+  "IdentityCard": {
+    "service": "Identity Card",
+    "requirements": [
+      "Civil registration statement.",
+      "Recent personal photos.",
+      "Written request.",
+      "Completion time: 7 to 15 days.",
+      "Estimated fees: 1,000 to 10,000 SYP."
+    ]
+  },
+  "FamilyRegister": {
+    "service": "Family Register",
+    "requirements": [
+      "A marriage contract duly certified.",
+      "Images of personal identification.",
+      "Civil registration statement.",
+      "Completion time: 3 to 7 days.",
+      "Estimated fees: 1,000 to 25,000 SYP."
+    ]
+  },
+  "BirthRegistration": {
+    "service": "Birth Registration",
+    "requirements": [
+      "Certified birth certificate (from the hospital or midwife).",
+      "Family Register.",
+      "Completion time: Immediate.",
+      "Estimated fees: Free."
+    ]
+  },
+  "MarriageRegistration": {
+    "service": "Marriage Registration",
+    "requirements": [
+      "A marriage contract duly certified.",
+      "The personal identities of the couple.",
+      "Personal photos.",
+      "Completion time: Immediate.",
+      "Estimated fees: 10,000 SYP."
+    ]
+  },
+  "IndividualCivilRegistryExtract": {
+    "service": "Individual Civil Registry Extract",
+    "requirements": [
+      "Personal ID only.",
+      "Completion time: Immediate.",
+      "Estimated fees: 500 - 1,000 SYP."
+    ]
+  },
+  "FamilyCivilRegistryExtract": {
+    "service": "Family Civil Registry Extract",
+    "requirements": [
+      "Personal ID only.",
+      "Civil registration statement (may be required in some cases).",
+      "Completion time: Immediate.",
+      "Estimated fees: 500 - 1,000 SYP."
+    ]
+  },
+  "ResidencyTransfer": {
+    "service": "Residency Transfer",
+    "requirements": [
+      "Written request.",
+      "Personal identity.",
+      "Completion time: two weeks.",
+      "Estimated fees: 10,000 SYP."
+    ]
+  },
+  "RegistrationOfBirth": {
+    "service": "Registration of Birth",
+    "requirements": [
+      "Present a birth certificate from the hospital or licensed midwife.",
+      "Presenting the family book to the parents.",
+      "If more than a year has passed since the birth, a court order is required.",
+      "The event must be registered in the civil status records within 30 days of the date of birth within the country."
+    ]
+  },
+  "RegistrationOfMarriage": {
+    "service": "Registration of Marriage",
+    "requirements": [
+      "A marriage contract certified by the Sharia or Church court.",
+      "Personal identification cards of the couple or a civil registration statement.",
+      "Recording the incident in the civil marriage record.",
+      "The family book is then issued."
+    ]
+  },
+  "RegistrationOfDivorce": {
+    "service": "Registration of Divorce",
+    "requirements": [
+      "A divorce decree issued by the Sharia court.",
+      "Present the family book and personal identification documents of the couple.",
+      "The incident is recorded in the civil records of the husband and wife, and the civil registration data is updated."
+    ]
+  },
+  "RegistrationOfDeath": {
+    "service": "Registration of Death",
+    "requirements": [
+      "A death certificate from the hospital or doctor, duly certified.",
+      "The deceased's relatives' identities and family Register.",
+      "Registration must be completed at the Civil Status Department of the place of the incident within 30 days (within the country).",
+      "If the death is not officially registered for a year or more, a court order is required."
+    ]
+  },
+  "CivilRecordsAndDocuments": {
+    "service": "Civil Records and Documents",
+    "requirements": [
+      "Individual Civil Registration Statement: Shows marital status (single, married, divorced) with place and date of birth.",
+      "Personal identity.",
+      "Fees: 500 - 10,000 SYP.",
+      "It is issued immediately or within one day."
+    ]
+  },
+  "FamilyCivilStatusExtract": {
+    "service": "Family Civil Status Extract",
+    "requirements": [
+      "This includes all family members registered under marriage.",
+      "Personal identity.",
+      "Fees: 500 - 10,000 SYP.",
+      "It is issued immediately or within one day."
+    ]
+  },
+  "BirthMarriageDivorceDeathCertificate": {
+    "service": "(Birth/ Marriage / Divorce/ Death ) Certificate",
+    "requirements": [
+      "Personal identity.",
+      "Fees: 5,000 - 10,000 SYP.",
+      "Released immediately."
+    ]
+  },
+  "TransferOfCivilRegistrationEntry": {
+    "service": "Transfer of Civil Registration Entry",
+    "requirements": [
+      "Submit a formal application.",
+      "Attach a civil registration statement, personal ID, and family book.",
+      "Approval of the Director General of Civil Status.",
+      "Processing time: about two weeks."
+    ]
+  },
+  "RegistrationOfSyrianNationality": {
+    "service": "Registration of The Acquisition of Syrian National",
+    "requirements": [
+      "The father's personal identity or civil registration record.",
+      "Approval from the Ministry of Interior.",
+      "Registration in the civil registry."
+    ]
+  }
+},
+"commercialRegister": {
+    "RenewalCorporateEntities": {
+      "service": "Renewal: Corporate Entities",
+      "requirements": [
+        "Submission of a request by the company, its legal representative, or the authorized signatory.",
+        "A copy of the 'No-Objection certificate' issued for activating the bank account, or a sworn undertaking from the concerned party confirming that no bank account is linked to the commercial registration.",
+        "Receipts of payment for the authentication of the commercial registration, issued by the Finance directorate.",
+        "Syrian Top-Level Domain Registration Document (TLD)."
+      ]
+    },
+    "RenewalSoleProprietorship": {
+      "service": "Renewal: Sole Proprietorship",
+      "requirements": [
+        "Submission of an application by the concerned party, their legal representative or authorized signatory.",
+        "A copy of the 'No objection certificate' Issued for activating the bank account or a written declaration by the concerned party, confirming that no bank account is associated with the commercial register.",
+        "Receipts of payment for the authentication of a commercial register copies issued by the finance directorate."
+      ]
+    },
+    "CapitalCompanies": {
+      "service": "Capital Companies",
+      "requirements": [
+        "Application for approval and registration",
+        "Official resolution approving the Articles of Association in accordance with applicable laws.",
+        "Power of attorney, if applicable.",
+        "Payment receipts for capital registration fees, company registration fees.",
+        "Legalization of the appointment documents of the certified public account.",
+        "Copies of ID cards or passports for Syrian and non-Syrian partners."
+      ]
+    },
+    "PartnershipCompanies": {
+      "service": "Partnership Companies",
+      "requirements": [
+        "Partnership agreement.",
+        "Application for license and registration.",
+        "Proof of Ownership of the company's premises or a valid lease agreement.",
+        "Copies of the partner's Syrian national ID cards, or copies of the passports of non-Syrian partners.",
+        "Work permits for non-Syrian employees, if applicable.",
+        "Professional license, if the business activity requires prior authorization.",
+        "Non-Employee and non-conviction certificates for all partners.",
+        "Chamber of Commerce Membership Certificate.",
+        "Payment receipts for commercial registration and stamp duties."
+      ]
+    },
+    "IndividualRegistration": {
+      "service": "Individual Registration",
+      "requirements": [
+        "Application for license and registration.",
+        "Proof of premises ownership (property deed) or in case of lease, a valid and certified lease agreement.",
+        "In case of rental - valid lease agreement must be provided.",
+        "A copy of the merchant's ID card or passport for non-Syrian nationals.",
+        "Professional license, if the business activity requires prior authorization.",
+        "Work permits for non-Syrian workers, if applicable.",
+        "Certificate of membership from the chamber of commerce.",
+        "Proof of payment of the prescribed commercial registration fees and stamp duties."
+      ]
+    }
+  },
+  "immigration": {
+    "IssuanceDomestic": {
+      "service": "Issuance Domestic",
+      "requirements": [
+        "Electronic registration via the Official Digital platform (Angez).",
+        "Fill out the personal information and attach an ID card or an attested recent Civil Status Extract.",
+        "Attach 2 personal photos with white background.",
+        "Choose the type of service (Ordinary - Urgent - Instant) and pay the applicable fees.",
+        "The Financial fees for the instant service are 1,600,000 SYP."
+      ]
+    },
+    "IssuanceOutsideSyria": {
+      "service": "Issuance Outside Syria",
+      "requirements": [
+        "Contact the Syrian embassy or consulate in the country of residence, typically reservation and registration are via the electronic platform.",
+        "The ID card or the attested Civil Registration certificate beside the personal images and proof of residency should be attached.",
+        "Payment of fees: USD 400 for the instant service, and USD 200 for the Ordinary service."
+      ]
+    },
+    "Renewal": {
+      "service": "Renewal",
+      "requirements": [
+        "Submit a renewal application or attach your ID and personal photos, and select whether the application is urgent or regular."
+      ]
+    },
+    "Correction": {
+      "service": "Correction",
+      "requirements": [
+        "In case of an error in the name or personal information, submit a correction request and attach a copy for the ID or civil record.",
+        "In the event of a lost or damaged passport, a formal report must be filed with the competent authorities.",
+        "Provide your ID, personal photos, a police report (if required) and proof of residence if abroad.",
+        "Pay the applicable fees for the replacement due to loss or damage."
+      ]
+    }
+  },
+  "ministryOfFinance": {
+    "DocumentingCommercialLeaseAgreement": {
+      "service": "Documenting a commercial lease agreement",
+      "requirements": [
+        "A lease agreement certified by the governorate and referred to the Ministry of Finance.",
+        "Personal identification of the landlord and tenant, or a duly certified legal power of attorney.",
+        "Purchase of an executive document that includes a financial stamp form and tax assessment.",
+        "A stamp duty of 10% of the rental value must be paid.",
+        "The landlord's fingerprint for clearance and financial survey, and a property inspection by the finance department.",
+        "Paying the current market value of the rented property.",
+        "Clearance certificate for the property (shop or house) in the name of the lessor.",
+        "Obtaining a tax identification number (TIN) for the tenant.",
+        "Pay a tax advance according to the type of business activity that the tenant will be practicing.",
+        "Ratification of the contract or referral to the governorate for implementation.",
+        "Estimated fees: (200,000 - 900,000 SYP)."
+      ]
+    }
+  },
+  "ministryOfIndustry": {
+    "MinistryFacilities2025": {
+      "service": "Ministry Facilities 2025",
+      "requirements": [
+        "Delegation of Licensing Authority to provincial Industry Directorates.",
+        "Customs Exemptions (Production Lines and Machinery).",
+        "Emphasis on Quality Control (Mandatory Product Test Certificate)."
+      ]
+    },
+    "LicensingDecisionForInvestmentProject": {
+      "service": "Licensing Decision for Investment Project",
+      "requirements": [
+        "100,000 SYP + 10% Reconstruction Contribution Fee, Plus stamps.",
+        "The Project Must be an Investment Project Covered by the Investment laws.",
+        "Applicant's ID Card Copy - Certified Legal Power of Attorney - Inclusion Decision."
+      ]
+    },
+    "RegulationOfIndustrialRegisterFees": {
+      "service": "Regulation of Industrial Register (Fees)",
+      "requirements": [
+        "Fees: Stamp Duty of Approximately 10,000 SYP.",
+        "Ministry of Industry Service Fee: 40,000 SYP, Plus 10% National Contribution Fee.",
+        "Local Administration Fee: 350 SYP.",
+        "Site Inspection: 1000 SYP.",
+        "Technical Report Certifying Conformity of Location and Machinery.",
+        "Sample Analysis Result Conforms to Syrian Standard Specifications."
+      ]
+    },
+    "IssuanceOfNewIndustrialLicense": {
+      "service": "Issuance of New Industrial Est. License",
+      "requirements": [
+        "Estimated Period: Approximately One Month.",
+        "Fees in Damascus Approximately 100,000 SYP.",
+        "Submission of Documents Pertaining to Industrial Project: Blueprint, Production Capacity, Raw Materials."
+      ]
+    },
+    "IndustrialLicenseDecreeInvestment": {
+      "service": "Industrial License Decree (Investment)",
+      "requirements": [
+        "Submitting Investment File / Business Plan to the Concerned Authorities.",
+        "Technical and Financial Examination of Registration Conditions.",
+        "Granting The Industrial License Decision.",
+        "Estimated Fees: Stamp Duty 15,000 SYP+.",
+        "Estimated Fees: Service Fee 100,000 SYP + 10% National Contribution Fee."
+      ]
+    },
+    "RegulationOfIndustrialRegisterProcess": {
+      "service": "Regulation of Industrial Register (Process)",
+      "requirements": [
+        "Submit Documents to Register The Facility in The Industrial Register.",
+        "Inspection Report Certifying Conformity.",
+        "Issuance of Industrial Facility Registration Certificate.",
+        "Estimated Fees: Stamp Duty 10,000 SYP, Service Fee 50,000 SYP.",
+        "Inspection Fee: 5,000 SYP."
+      ]
+    },
+    "EstablishmentOfNewIndustrialFacility": {
+      "service": "Establishment of New Industrial Facility",
+      "requirements": [
+        "Fill out the License Application form and submit it.",
+        "Attach personal ID, Commercial Registration, Ownership/lease Contract, Blueprints, Machinery Description, Project Study.",
+        "Conduct Site and Technical Inspection.",
+        "License Decision Issued Upon Fulfillment of Conditions.",
+        "Estimated Fees: Stamp Duty 15,000 SYP, Service Fees 5,000 SYP + 10% National Contribution Fee."
+      ]
+    },
+    "CertificateOfOrigin": {
+      "service": "Certificate of Origin",
+      "requirements": [
+        "Request.",
+        "Production Documents.",
+        "Verification of Compliance with Rules of Origin.",
+        "Estimated Fees: 200,000 - 10,000 SYP."
+      ]
+    },
+    "RegisterAmendment": {
+      "service": "Register Amendment",
+      "requirements": [
+        "Verification Inspection.",
+        "Data Amendment.",
+        "New Certificate.",
+        "Estimated Fees: 30,000 - 10,000 SYP."
+      ]
+    },
+    "IndustrialRegister": {
+      "service": "Industrial Register",
+      "requirements": [
+        "Machinery Registration.",
+        "Inspection.",
+        "Registration Certificate.",
+        "Estimated Fees: 50,000 - 80,000 SYP."
+      ]
+    },
+    "FacilityLicensingGeneral": {
+      "service": "Facility Licensing (General)",
+      "requirements": [
+        "Request.",
+        "Blueprints.",
+        "Inspection.",
+        "License Decision.",
+        "Estimated Fees: 100,000 - 150,000 SYP.",
+        "Stamps."
+      ]
+    }
+  },
+  "ministryOfTourism": {
+    "TravelAgencyLicense": {
+      "service": "Travel Agency/Tourism Office License (Organizing trips and booking tickets)",
+      "requirements": [
+        "A written application for a license addressed to the Ministry of Tourism, explaining the activity required.",
+        "A property registration statement / title deed or certified lease agreement for the office location, commercial property ≥ 30 m².",
+        "A 5-year lease, or investment contract, or a 1-year lease with notarized undertaking to extend for 5 years.",
+        "Sketch of the site and description of the place.",
+        "Copy of personal identification of office owner or partners.",
+        "Criminal record (no convictions).",
+        "Non-employee document.",
+        "Field inspection conducted after submission of initial documents.",
+        "Founding budget and initial capital ≥ 10,000,000 SYP.",
+        "Bank guarantee worth 25,000,000 SYP.",
+        "Appoint two employees registered with social security and labor.",
+        "Images of employees' academic certificates and personal IDs.",
+        "Membership application in the tourist register and registration in the Chamber of Tourism.",
+        "Payment of service and administrative fees: 150,000 SYP - 300,000 SYP.",
+        "Approximate costs for licensing: Bank guarantee: 25,000,000 SYP, Start-up budget: 10,000,000 SYP, Lease: 6,000,000 SYP, Administrative fees: 150,000 - 300,000 SYP."
+      ]
+    },
+    "TouristGuideLicense": {
+      "service": "Tourist guide license",
+      "requirements": [
+        "Syrian nationality or equivalent status.",
+        "Age ≥ 22 years.",
+        "University degree or equivalent (or intermediate institute degree depending on specialization).",
+        "No felony or dishonorable misdemeanor convictions.",
+        "Not employed by the state.",
+        "Required documents: Copy of personal ID, Criminal record, Non-employee document, Certified educational certificate, Six personal photos, Proof of residence.",
+        "Proficiency in spoken and written English.",
+        "Application submitted to Directorate of Tourism with technical examination and Ministry training course.",
+        "Fees range: 800,000 SYP - 2,500,000 SYP."
+      ]
+    },
+    "TouristAccommodationLicense": {
+      "service": "License for a tourist accommodation establishment (hotel)",
+      "requirements": [
+        "Official request to the Minister of Tourism to establish and operate a tourist hotel.",
+        "Approved site plans showing rooms, spaces, and design.",
+        "Document proving land ownership, certified lease, or investment contract.",
+        "Technical and economic study including investment costs, workers, expected services.",
+        "Investor's Guide / Guide to Initial Technical Qualification Application.",
+        "Trial operational manual to assess readiness before final licensing.",
+        "List of workers and employees, Certified employment contracts, Registration with social security and employment.",
+        "Statement of readiness of basic services (electricity, water, internet, waste management).",
+        "Health and safety certificate from Ministry of Health, Civil Defense certificate for safety requirements.",
+        "Security and safety documentary plans.",
+        "Hotel rating determined by ministry after final inspection.",
+        "Copy of personal IDs of applicant and partners.",
+        "Bank account in hotel's name.",
+        "Costs vary by location, classification, and operating costs, approx. 10,000,000 - 100,000,000 SYP including administrative fees."
+      ]
+    }
+  },
+   "ministryOfTransportation": {
+    "NewVehicleRegistration": {
+      "service": "New vehicle registration procedures",
+      "requirements": [
+        "Customs certificate (for imported vehicles).",
+        "Vehicle registration application.",
+        "Copy of owner's personal identification.",
+        "Vehicle tax identification number (commercial vehicles).",
+        "Vehicle technical inspection report.",
+        "Customs clearance certificate (if available).",
+        "Receipt for payment of fees.",
+        "Estimated fees: Initial registration 50,000 - 150,000 SYP depending on vehicle type.",
+        "Estimated fees: Painting costs approx. 50,000 SYP.",
+        "Estimated fees: Directorate + stamps + union fees 50,000 - 150,000 SYP.",
+        "Imported vehicles subject to customs duties varying by engine and year."
+      ]
+    },
+    "TransferVehicleOwnership": {
+      "service": "Transfer of vehicle ownership (sale - purchase)",
+      "requirements": [
+        "Notarized sales contract or registered contract with the directorate.",
+        "Images of personal documents of seller and buyer.",
+        "Clearance certificate from financial authorities.",
+        "Criminal record (no convictions) for buyer.",
+        "Technical inspection of vehicle.",
+        "Original vehicle registration license.",
+        "Traffic clearance certificate.",
+        "Personal photos.",
+        "Power of attorney required if sale by proxy.",
+        "Estimated fees: Transfer ownership 50,000 - 250,000 SYP.",
+        "Estimated fees: Technical inspection 10,000 - 35,000 SYP.",
+        "Estimated fees: Stamps and service 10,000 - 40,000 SYP.",
+        "Estimated fees: Transport union fees approx. 10,000 SYP."
+      ]
+    },
+    "AnnualLicenseRenewal": {
+      "service": "Annual license renewal (registration)",
+      "requirements": [
+        "Original vehicle registration certificate.",
+        "Owner's identity.",
+        "Mandatory insurance fee 50,000 - 90,000 SYP.",
+        "Traffic clearance certificate.",
+        "Valid mandatory insurance policy.",
+        "Estimated fees: Annual licensing fees depending on vehicle type."
+      ]
+    },
+    "ReplacementLicensePlates": {
+      "service": "Replacement of license plates (lost or damaged)",
+      "requirements": [
+        "Police report of lost license plates.",
+        "Old plates if damaged.",
+        "Vehicle registration license.",
+        "Personal identity.",
+        "Request for replacement.",
+        "Estimated fees: New plate 50,000 - 80,000 SYP.",
+        "Estimated fees: Stamps and transaction fees 10,000 - 25,000 SYP."
+      ]
+    },
+    "ReplacementLostRegistration": {
+      "service": "Replacement for a lost vehicle registration",
+      "requirements": [
+        "Police report.",
+        "Personal identity.",
+        "Personal photo.",
+        "Application for replacement.",
+        "Technical inspection.",
+        "Estimated fees: 15,000 - 35,000 SYP.",
+        "Stamp and transaction fees: 10,000 - 20,000 SYP."
+      ]
+    },
+    "VehicleTechnicalInspection": {
+      "service": "Vehicle technical inspection",
+      "requirements": [
+        "Vehicle registration license.",
+        "Personal identity.",
+        "Inspection request form.",
+        "Estimated fees: Regular annual 10,000 - 250,000 SYP.",
+        "Estimated fees: Property transfer inspection 15,000 - 35,000 SYP."
+      ]
+    },
+    "MortgagePlacementRemoval": {
+      "service": "Placement and removal of the mortgage sign",
+      "requirements": [
+        "Certified mortgage contract (bank or official body).",
+        "Personal identity.",
+        "Driving license.",
+        "Request to place a lien.",
+        "Documents required to release a mortgage.",
+        "Estimated fees: Placement 10,000 - 25,000 SYP.",
+        "Estimated fees: Lifting 10,000 - 25,000 SYP."
+      ]
+    },
+    "VehicleSpecsChange": {
+      "service": "Transaction for changing vehicle specifications",
+      "requirements": [
+        "Request to modify specifications.",
+        "Technical Committee Report.",
+        "Technical inspection of the vehicle.",
+        "Parts bill (for new engines).",
+        "Personal identity.",
+        "Driving license.",
+        "Estimated fees: Amendment statement 20,000 - 50,000 SYP.",
+        "Estimated fees: Amendment registration fees 20,000 - 70,000 SYP."
+      ]
+    },
+    "VehicleRegistrationStatement": {
+      "service": "Vehicle registration statement",
+      "requirements": [
+        "Personal identity.",
+        "License plate number or chassis number.",
+        "Application form for registration statement.",
+        "Estimated fees: 5,000 - 15,000 SYP."
+      ]
+    },
+    "PublicTransportTransactions": {
+      "service": "Public transport transactions (taxi and commercial transport)",
+      "requirements": [
+        "Public service book.",
+        "Vehicle registration.",
+        "Approvals from governorate executive office.",
+        "Technical inspection.",
+        "Estimated fees: 30,000 - 650,000 SYP."
+      ]
+    },
+    "VehicleOwnershipTransactions": {
+      "service": "Transactions related to vehicle ownership",
+      "requirements": [
+        "Transfer of ownership (buying and selling).",
+        "Documenting the sales contract.",
+        "Updating new owner records.",
+        "Transfer by mutual agreement.",
+        "Transfer after approvals.",
+        "Waiver of vehicle rights.",
+        "Formal abandonment and ratification."
+      ]
+    },
+    "VehicleLicensePlateTransactions": {
+      "service": "Vehicle license plate transactions",
+      "requirements": [
+        "Issuance of new plates (loss, damage, new registration).",
+        "Lost/Damaged: Subject to police seizure.",
+        "Re-issuing with same number.",
+        "Replacing old plates with new."
+      ]
+    },
+    "MortgageAndLienTransactions": {
+      "service": "Mortgage and lien transactions",
+      "requirements": [
+        "Vehicle mortgaged to bank/public entity/individual.",
+        "Recording lien notice.",
+        "Lifting mortgage via clearance certificate.",
+        "Mortgage registration canceled.",
+        "Placing or lifting lien.",
+        "Reservation lifted via official letter."
+      ]
+    },
+    "VehicleTechnicalInspectionDetails": {
+      "service": "Vehicle technical inspection (details)",
+      "requirements": [
+        "Check brakes, tires, lights, emissions.",
+        "Ownership transfer check.",
+        "Check modifications (color, engine, chassis)."
+      ]
+    },
+    "DocumentAndRecordTransactions": {
+      "service": "Document and record transactions",
+      "requirements": [
+        "Vehicle registration: Statement of specifications and ownership.",
+        "Chassis and engine matching.",
+        "Service book: Issuance and renewal of public vehicle permits."
+      ]
+    },
+    "CategorySpecificTransactions": {
+      "service": "Transactions specific to certain categories of vehicles",
+      "requirements": [
+        "Public transport (taxis and buses).",
+        "Renewal of general license, transfer line/category, conversion private/public.",
+        "Government vehicles via official correspondence.",
+        "Agricultural vehicles: partial exemptions."
+      ]
+    },
+    "VehicleSpecificationsModification": {
+      "service": "Vehicle specifications modification procedures",
+      "requirements": [
+        "Discoloration.",
+        "Converting vehicle category.",
+        "Installing/removing equipment (gas/truck box/tipper).",
+        "Modify operation type (subject to technical committee approval)."
+      ]
+    },
+    "ReplacementLostDocuments": {
+      "service": "Replacement for lost documents",
+      "requirements": [
+        "Replacing lost vehicle registration document.",
+        "Replacing license plates.",
+        "Police report confirming loss.",
+        "Review by Directorate of Transportation."
+      ]
+    }
+  },
+   "realEstateAffairs": {
+    "RealEstateRegistrationTransactions": {
+      "service": "Real estate registration transactions (Tabu)",
+      "requirements": [
+        "Initial registration: Registration of a property that has not previously been registered in the real estate registry.",
+        "Transfer of ownership: sale, purchase, gift, exchange, and transfer of ownership between relatives.",
+        "Establishing informal sales contracts: through a court ruling or by mutual agreement.",
+        "Registering the inheritance and transferring ownership to the heirs based on the inheritance inventory.",
+        "Establishing ownership through court rulings: confirming a sale, removing joint ownership, and establishing ownership.",
+        "Documents required for registering and transferring real estate ownership (sale - gift - exchange - inheritance - court ruling) and for issuing the title deed (Tabu):",
+        "Seller's (owner's) and agent's identity: (original and copy).",
+        "The original sales contract or previous title deed.",
+        "Certified property registration statement.",
+        "Receipts for payment of property sales tax.",
+        "Financial clearance certificate (municipal).",
+        "Property plan / Area statement for residential or agricultural properties.",
+        "Inheritance inventory and court rulings (for inheritance cases).",
+        "A certified legal power of attorney (if the application is submitted by a legal representative).",
+        "The application must be submitted to the Registration Review Office at the General Directorate of Real Estate Affairs.",
+        "Real estate registration fees are calculated based on the current market value of the property as approved by the Ministry of Finance for transactions (sale - gift - exchange).",
+        "Fees for sale, gift, or exchange based on the prevailing value of the Ministry of Finance.",
+        "In the case of a mortgage, the registration fee is calculated based on the amount of the debt (the value of the mortgage loan).",
+        "Additional charges apply: technical fees, stamps, and administrative costs.",
+        "The duration for issuing the title deed is from one week to one month.",
+        "Duration of determination, release and secretion: 1.5 to 4 months."
+      ]
+    },
+    "TransferOwnership": {
+      "service": "Transfer of ownership (sale/purchase)",
+      "requirements": [
+        "Certified sales contract: signed by the seller.",
+        "Sales tax receipt: Paid at the Ministry of Finance.",
+        "Financial clearance certificate (real estate clearance certificate).",
+        "ID photos: for the seller and the buyer.",
+        "A certified legal power of attorney if there is an agent.",
+        "The original title deed.",
+        "Court referral (for legal claims: confirmation of sale).",
+        "Fees: Sale price + registration fee + stamps.",
+        "Duration: 10 days to one month."
+      ]
+    },
+    "DrugReleaseIntoIndependentUnits": {
+      "service": "Drug release into independent units",
+      "requirements": [
+        "Property registration statement.",
+        "Certified survey plan: recent and approved.",
+        "Area statement / Topographic plan.",
+        "Identity photos and property transfer documents.",
+        "Procedures:",
+        "Submit an application to the relevant department + pay the audit fees / initial fees.",
+        "The file was referred to the technical/surveying office to prepare the subdivision plan.",
+        "Notify the neighbors and conduct a site inspection.",
+        "Approval of the final plan from the real estate registry and its registration in the records.",
+        "Fees: Auditing fees and technical fees.",
+        "Duration: 1 to 3 months."
+      ]
+    },
+    "BoundaryModification": {
+      "service": "Boundary modification, property consolidation, and re-demarcation (surveying, technical, and legal work)",
+      "requirements": [
+        "The real estate registry, the real estate office for site inspection and preparation of the boundary report.",
+        "Ratification of the amendment and its entry into the real estate registry.",
+        "Fees: Determined based on artwork and working hours.",
+        "Duration: 3 weeks - 2 months."
+      ]
+    },
+    "RegistrationAndClearance": {
+      "service": "Registration and clearance of the record (mortgage, seizure, and impediments to disposal)",
+      "requirements": [
+        "Placing or removing a lien (mortgage in favor of a bank - claim lien).",
+        "Mortgage registration: A mortgage contract or debt instrument.",
+        "Signature recording: A court referral or judicial ruling.",
+        "Undoing the sign (cancellation): Court ruling - payment/receipt, or proof of settlement.",
+        "Duration: 10 days - 2 weeks."
+      ]
+    },
+    "InheritanceAndTransferToHeirs": {
+      "service": "Inheritance and transfer of ownership to heirs",
+      "requirements": [
+        "Death certificate, certified legal inheritance certificate, and civil registration statement.",
+        "Submitting documents to the land registry to transfer ownership or distribute shares based on the inheritance inventory.",
+        "Fees: Based on property value (percentage) and transaction type.",
+        "Duration: 2 weeks - 3 months."
+      ]
+    }
+  },
+   "realEstateDocuments": {
+    "RealEstateRegistrationTransactions": {
+      "service": "Real estate registration transactions (Tabu)",
+      "requirements": [
+        "Initial registration: Registration of a property that has not previously been registered in the real estate registry.",
+        "Transfer of ownership: sale, purchase, gift, exchange, and transfer of ownership between relatives.",
+        "Establishing informal sales contracts: through a court ruling or by mutual agreement.",
+        "Registering the inheritance and transferring ownership to the heirs based on the inheritance inventory.",
+        "Establishing ownership through court rulings: confirming a sale, removing joint ownership, and establishing ownership.",
+        "Documents required for registering and transferring real estate ownership (sale - gift - exchange - inheritance - court ruling) and for issuing the title deed (Tabu):",
+        "Seller's (owner's) and agent's identity: (original and copy).",
+        "The original sales contract or previous title deed.",
+        "Certified property registration statement.",
+        "Receipts for payment of property sales tax.",
+        "Financial clearance certificate (municipal).",
+        "Property plan / Area statement for residential or agricultural properties.",
+        "Inheritance inventory and court rulings (for inheritance cases).",
+        "A certified legal power of attorney (if the application is submitted by a legal representative).",
+        "The application must be submitted to the Registration Review Office at the General Directorate of Real Estate Affairs.",
+        "Real estate registration fees are calculated based on the current market value of the property as approved by the Ministry of Finance for transactions (sale - gift - exchange).",
+        "Fees for sale, gift, or exchange based on the prevailing value of the Ministry of Finance.",
+        "In the case of a mortgage, the registration fee is calculated based on the amount of the debt (the value of the mortgage loan).",
+        "Additional charges apply: technical fees, stamps, and administrative costs.",
+        "The duration for issuing the title deed is from one week to one month.",
+        "Duration of determination, release and secretion: 1.5 to 4 months."
+      ]
+    },
+    "TransferOwnership": {
+      "service": "Transfer of ownership (sale/purchase)",
+      "requirements": [
+        "Certified sales contract: signed by the seller.",
+        "Sales tax receipt: Paid at the Ministry of Finance.",
+        "Financial clearance certificate (real estate clearance certificate).",
+        "ID photos: for the seller and the buyer.",
+        "A certified legal power of attorney if there is an agent.",
+        "The original title deed.",
+        "Court referral (for legal claims: confirmation of sale).",
+        "Fees: Sale price + registration fee + stamps.",
+        "Duration: 10 days to one month."
+      ]
+    },
+    "DrugReleaseIntoIndependentUnits": {
+      "service": "Drug release into independent units",
+      "requirements": [
+        "Property registration statement.",
+        "Certified survey plan: recent and approved.",
+        "Area statement / Topographic plan.",
+        "Identity photos and property transfer documents.",
+        "Procedures:",
+        "Submit an application to the relevant department + pay the audit fees / initial fees.",
+        "The file was referred to the technical/surveying office to prepare the subdivision plan.",
+        "Notify the neighbors and conduct a site inspection.",
+        "Approval of the final plan from the real estate registry and its registration in the records.",
+        "Fees: Auditing fees and technical fees.",
+        "Duration: 1 to 3 months."
+      ]
+    },
+    "BoundaryModification": {
+      "service": "Boundary modification, property merging, and re-demarcation",
+      "requirements": [
+        "The real estate registry, the real estate office for site inspection and preparation of the boundary report.",
+        "Ratification of the amendment and its entry into the real estate registry.",
+        "Fees: Determined based on artwork and working hours.",
+        "Duration: 3 weeks - 2 months."
+      ]
+    },
+    "RegistrationAndClearance": {
+      "service": "Registration and clearance of the record (mortgage, seizure…)",
+      "requirements": [
+        "Placing or removing a lien (mortgage in favor of a bank - claim lien).",
+        "Mortgage registration: A mortgage contract or debt instrument.",
+        "Signature recording: A court referral or judicial ruling.",
+        "Undoing the sign (cancellation): Court ruling - payment/receipt, or proof of settlement.",
+        "Duration: 10 days - 2 weeks."
+      ]
+    },
+    "InheritanceAndTransferToHeirs": {
+      "service": "Inheritance and transfer of ownership to heirs",
+      "requirements": [
+        "Death certificate, certified legal inheritance certificate, and civil registration statement.",
+        "Submitting documents to the land registry to transfer ownership or distribute shares based on the inheritance inventory.",
+        "Fees: Based on property value (percentage) and transaction type.",
+        "Duration: 2 weeks - 3 months."
+      ]
+    }
+  },
+  
+  "realEstateOwnership": {
+    "PropertyOwnershipDocs": {
+      "service": "Documents required for property ownership by Arabs and foreigners in Syria",
+      "requirements": [
+        "The ownership application must be submitted by the concerned party or his legal representative to the General Directorate of Civil Affairs office at the Ministry of Interior, accompanied by the following documents.",
+        "A real estate registration (ownership deed) for the property to be registered issued by the Real Estate Affairs Directorate in the location of the property, or a statement from the housing association proving the membership of the concerned party and his entitlement to a residential apartment (for Arabs and Palestinians).",
+        "A statement issued by the relevant municipality clarifying the area of ​​the property and whether it is eligible for subdivision into layers or not.",
+        "A civil registration statement for the applicant, duly certified by the Syrian Ministry of Foreign Affairs and Expatriates, or a copy of a civil registration issued by the General Authority for Palestinian Arab Refugees (GAPAR).",
+        "(For Palestinians) A copy of the residence permit card.",
+        "A civil registration statement for the owner, or a copy of his personal identification card.",
+        "The title deed concluded between the owner and the applicant (initial sale contract).",
+        "A pledge document (according to the attached form), affixed with legal stamps, signed by the concerned party personally or his legal representative in the presence of the competent employee.",
+        "A statement from the temporary registry confirms that the applicant for the license does not own any other property.",
+        "Implementation time: ranges from 20 days to a month and a half.",
+        "Estimated fees: 500,000 to 105,000,000 SYP + stamps.",
+        "Estimated fees: Financial stamp and Red Crescent stamp."
+      ]
+    }
+  },
+  "footer": {
+    "aboutText": "We offer all electronic services and paper transactions with accuracy, speed, and efficiency.",
+    "contact": "Contact",
+    "phone": "+963 932 156 083",
+    "email": "abshervip27@gmail.com",
+    "address": "Damascus, Arnous Square",
+    "quickLinks": "Quick Links",
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "services": "Services",
+    "service1": "Immigration and Passports",
+    "service2": "Ministry of Internal Trade",
+    "service3": "Civil Status",
+    "service4": "Ministry of Industry",
+    "service5": "Real Estate Ownership",
+    "service6": "Ministry of Finance",
+    "service7": "Real Estate Affairs",
+    "service8": "Ministry of Transportation",
+    "service9": "Ministry of Tourism",
+    "service10": "Real Estate Documents",
+    "newsletter": "Newsletter",
+    "newsText": "Contact to get latest updates and offers.",
+    "enterEmail": "Enter your email",
+    "send": "Send",
+    "emailSent": "Email sent successfully!",
+    "emailFailed": "Failed to send email. Please try again."
+  },
+  "immigrations": {
+    "heroTitle": "Our Services",
+    "heroText": "Choose your service and learn about the required documents",
+    "requirementsTitle": "{{service}} Requirements",
+    "services": {
+      "newRegistration": "New Vehicle Registration",
+      "transferOwnership": "Transfer of Vehicle Ownership",
+      "annualLicense": "Annual License Renewal",
+      "lostPlates": "Replacement of Lost Plates"
+    },
+    "requirements": {
+      "newRegistration": [
+        "New vehicle registration procedures",
+        "Customs certificate (for imported vehicles)",
+        "Vehicle registration application",
+        "A copy of the owner's personal ID"
+      ],
+      "transferOwnership": [
+        "Notarized sales contract",
+        "ID photos of seller and buyer",
+        "Financial clearance certificate"
+      ],
+      "annualLicense": [
+        "Original vehicle registration certificate",
+        "Owner's identity",
+        "Mandatory insurance fee"
+      ],
+      "lostPlates": [
+        "Police report of lost license plates",
+        "Old plates (if damaged)"
+      ]
+    }
+  },
+  "about": {
+    "mission": {
+      "title": "Mission",
+      "text": "Our mission is to simplify paperwork procedures in Syria by providing accurate and efficient remote information solutions that save time, reduce complexity, and eliminate the need for a physical presence."
+    },
+    "vision": {
+      "title": "Vision",
+      "text": "To become the leading company in remote areas for paperwork and administrative services in Syria, making official transactions accessible, simple and reliable from anywhere in the world."
+    },
+    "leadership": {
+      "title": "Our Leadership",
+      "text": "Mr. Alkasmi is a results-driven professional with extensive experience in Damascus, Dubai, and international markets. His background spans systems management, business processes, and cross-border operations, giving him a deep and practical understanding of how things work in practice. With a keen eye for detail and a strategic mindset, Mr. Alkasmi is known for his ability to navigate complex procedures efficiently and deliver reliable solutions. His ambition goes beyond routine services—he is driven by a clear vision to build a high-standard, trustworthy company that sets new benchmarks in the industry. Guided by experience, integrity, and continuous growth, Mr. Alkasmi is committed to delivering the best possible results for every client."
+    },
+    "strategic": {
+      "title": "Strategic Priorities"
+    },
+    "steps": [
+      { "n": 1, "p": "Make Government Services Seamless and Accessible" },
+      { "n": 2, "p": "Enhance Client Experience through Seamless Integration" },
+      { "n": 3, "p": "Drive Technological Innovation" },
+      { "n": 4, "p": "Expand Market Presence and Influence" },
+      { "n": 5, "p": "Promote Business Excellence and Client Success" },
+      { "n": 6, "p": "Strengthen Institutional Excellence" },
+      { "n": 7, "p": "Support Entrepreneurial Growth" }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Send us a message and we’ll get back to you within 24 hours!",
+    "headOffice": "Head Office",
+    "emailUs": "Email Us",
+    "callUs": "Call Us",
+    "place": "Damascus, Arnous Square, Arnous Tower",
+    "email": "abshervip27@gmail.com",
+    "phone": "+963 932 156 083",
+    "form": {
+      "first": "First Name",
+      "last": "Last Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Your Message",
+      "submit": "Send"
+    }
+  }
+}
